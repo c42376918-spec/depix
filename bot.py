@@ -90,7 +90,7 @@ def get_start_keyboard():
             InlineKeyboardButton("Exchange", callback_data="action_exchange"),
         ],
         [
-            InlineKeyboardButton("Suporte", url="https://t.me/your_support_handle"),
+            InlineKeyboardButton("Suporte", url="#0"),
         ],
     ])
 
