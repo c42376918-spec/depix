@@ -90,7 +90,7 @@ def get_start_keyboard():
             InlineKeyboardButton("Exchange", callback_data="action_exchange"),
         ],
         [
-            InlineKeyboardButton("Suporte", url="#0"),
+            InlineKeyboardButton("Suporte", url="https://t.me/DePIX_Admin"),
         ],
     ])
 
